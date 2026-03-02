@@ -10,7 +10,7 @@ When starting a new video project for a brand:
 2. **Define the brand** — [rules/brand-system.md](rules/brand-system.md)
 3. **Build components** — [rules/components.md](rules/components.md)
 4. **Create templates** — [rules/templates.md](rules/templates.md)
-5. **Compose scenes** — [rules/scene-patterns.md](rules/scene-patterns.md)
+5. **Compose scenes** — [rules/scene-patterns.md](rules/scene-patterns.md) + [rules/scene-blueprints.md](rules/scene-blueprints.md)
 6. **Animate** — [rules/animation.md](rules/animation.md)
 7. **Add sound** — [rules/sound-design.md](rules/sound-design.md)
 8. **Generate voiceover** — [rules/voiceover.md](rules/voiceover.md)
@@ -25,6 +25,7 @@ When starting a new video project for a brand:
 | **Components** | Background, GradientText, Logo, PillBadge, AnimatedText |
 | **9 Scene Templates** | Title cards, callouts, quotes, prompts, split-screen, headlines |
 | **Scene Patterns** | Pro tips, pain points, competitor cards, notifications, side-by-side |
+| **Scene Blueprints** | Copy-paste-ready implementations for all templates + custom scenes |
 | **Animation Language** | Spring physics, staggered entrances, highlight walking, idle float |
 | **Sound Design** | SFX categories, music beds, mixing with FFmpeg, volume envelopes |
 | **Voiceover** | Eleven Labs integration for AI narration |

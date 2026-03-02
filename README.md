@@ -14,6 +14,7 @@ video-production/
     ├── components.md               # 5 reusable components (Background, GradientText, etc.)
     ├── templates.md                # 9 scene templates (titles, callouts, quotes, prompts)
     ├── scene-patterns.md           # Proven compositions (pro tips, competitor cards, etc.)
+    ├── scene-blueprints.md         # Copy-paste-ready code for all templates + custom scenes
     ├── animation.md                # Spring physics, staggered entrances, highlight walking
     ├── sound-design.md             # SFX categories, music beds, FFmpeg mixing
     ├── voiceover.md                # Eleven Labs integration
