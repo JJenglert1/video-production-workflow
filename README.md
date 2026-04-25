@@ -1,4 +1,53 @@
-# Video Production Skill
+# Video Production with AI — Two Paths
+
+This repo originally linked to a **Remotion-based** video production workflow. Since then, a second approach has emerged using **HyperFrames** — and both are worth knowing about. Use this page to pick your path.
+
+---
+
+## Choose Your Path
+
+### Path 1 — Remotion (React-based)
+**Best if:** You're comfortable with React, want a mature ecosystem, or your team already uses JavaScript frameworks.
+
+> **[Video Production Workflow (this repo)](https://github.com/JJenglert1/video-production-workflow)**
+
+Remotion is a React-based video framework that's been around for five years. It has a large community, excellent documentation, and a proven track record in production. You build videos as React components, and it renders them to MP4 using a headless Chrome-based pipeline.
+
+### Path 2 — HyperFrames (HTML-based, newer)
+**Best if:** You want a smoother editing experience, prefer HTML/CSS over React, or want tighter AI-agent integration out of the box.
+
+> **[Media Production Kit (HyperFrames)](https://github.com/JJenglert1/media-production-kit)**
+
+HyperFrames is a newer HTML-based platform backed by HeyGen. It works similarly to Remotion — you write animated code files that render to MP4 — but it has a better user experience within the actual editor. It's designed from the ground up for AI-assisted video production, with a live preview studio and a library of pre-built blocks.
+
+---
+
+## Side-by-Side Comparison
+
+| | Remotion | HyperFrames |
+|---|---|---|
+| **Built on** | React (JSX/TSX) | HTML + GSAP |
+| **Backed by** | Open source / Remotion GmbH | HeyGen |
+| **Maturity** | ~5 years, large community | Newer, growing fast |
+| **Editor experience** | Good (Remotion Studio) | Better UX in the live editor |
+| **AI agent support** | Works well | Designed for AI agents |
+| **Rendering** | Headless Chrome | Headless Chrome |
+| **Best for** | React teams, complex logic | Quick iteration, AI-first workflows |
+
+---
+
+## Which video is which?
+
+- **My original video** covers the **Remotion** workflow (this repo).
+- **My latest video** covers the **HyperFrames** workflow → [Media Production Kit](https://github.com/JJenglert1/media-production-kit).
+
+---
+
+## Remotion Skill — Full Documentation
+
+Everything below covers the original Remotion-based workflow.
+
+---
 
 A portable Claude Code skill for creating branded video content with **Remotion** (React-based video framework), **sound design**, and **voiceover**. Captures proven patterns from production — scene templates, animation language, component architecture, and end-to-end workflow.
 
